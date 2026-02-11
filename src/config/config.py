@@ -5,5 +5,5 @@ class Config:
     )
 
     MODEL_NAME = "XGBoost"
-    MODEL_STAGE = "Staging"
+    MODEL_STAGE = "Production"
 

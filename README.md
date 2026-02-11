@@ -8,7 +8,7 @@ The project covers the full lifecycle from experimentation and model comparison 
 ## Production Endpoint
 
 **Live API:**  
-https://smartprice-predictor.onrender.com/docs
+[https://smartprice-predictor.onrender.com/docs](https://smartprice-api-ru6k.onrender.com/docs)
 
 ---
 
@@ -106,7 +106,7 @@ Measured directly from the loaded production model:
 
 Measured through the FastAPI service:
 
-- Average latency: ~14–17 ms per request
+- Average latency: ~3-6 ms per request
 
 This includes:
 
